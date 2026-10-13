@@ -1,11 +1,11 @@
 # Hi there, I'm Tosin Joseph 👋
 
-### 🚀 AI / Machine Learning Engineer
+## 🚀 AI / Machine Learning Engineer
 I focus on building machine learning models, data analysis pipelines, and intelligent software solutions.
 
 ---
 
-### 🛠 Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
 **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,7 +21,7 @@ I focus on building machine learning models, data analysis pipelines, and intell
 
 ---
 
-### 📊 GitHub Activity & Stats
+## 📊 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=vaimltosin-AIML&show_icons=true&theme=radial" alt="Tosin's GitHub Stats" width="48%" />
@@ -30,7 +30,7 @@ I focus on building machine learning models, data analysis pipelines, and intell
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tos%C3%ACnjoseph/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vai05150btosin@gmail.com)
