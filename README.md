@@ -1,6 +1,6 @@
 # Hi there, I'm Tosin Joseph 👋
 
-## 🚀 AI / Machine Learning Engineer
+### 🚀 AI / Machine Learning Engineer
 I focus on building machine learning models, data analysis pipelines, and intelligent software solutions.
 
 ---
