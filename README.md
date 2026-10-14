@@ -1,10 +1,9 @@
 
 
-
+---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=250&section=header&text=Welcome%20my%20Github&fontSize=45&fontColor=38bdf8&textY=35&desc=AI%2FML%20Engineer&descSize=18&descColor=94a3b8&descY=82" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=200&section=header&text=Welcome%20my%20Github&fontSize=35&fontColor=38bdf8" alt="Header" />
 </p>
-
 
 <p align="center">
   <a href="https://git.io/typing-svg">
