@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Your+Name;Your+Role+or+Title;Building+Cool+Stuff" alt="Typing SVG" />
+  </a>
+</p>
+
 # Hi there, I'm Tosin Joseph 👋
 
 ## 🚀 AI / Machine Learning Engineer
