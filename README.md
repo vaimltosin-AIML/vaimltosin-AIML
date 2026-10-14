@@ -1,7 +1,8 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=802857&height=200&text=Joseph%20Tosin%20Olamide&fontSize=38&fontColor=ffffff&desc=AI%2FML%20Engineer&descSize=18&descAlign=50&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?
+    type=waving&color=802857&height=200&text=Joseph%20Tosin%20Olamide&fontSize=38&fontColor=ffffff&desc=AI%2FML%20Engineer&descSize=18&descAlign=50&descAlignY=65" width="100%" />
 </p>
 
 
