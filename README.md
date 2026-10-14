@@ -3,6 +3,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=I'm+Joseph+Tosin+Olamide;AI%2FML+Engineer;Building+machine+learning+models...;Data+analysis+pipelines+%26+intelligent+software!" alt="Typing SVG" />
   </a>
 </p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8a2be2&height=200&section=header&text=Joseph%20Tosin%20Olamide&fontSize=36&fontColor=ffffff&desc=AI%2FML%20Engineer&descSize=18&descAlign=50&descAlignY=65" width="100%" />
+</p>
 # Hi there, I'm Tosin Joseph 👋
 
 ## 🚀 AI / Machine Learning Engineer
