@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:E83E8C,100:6F42C1&height=200&section=header&text=Joseph%20Tosin%20Olamide&fontSize=36&fontColor=ffffff&desc=AI%2FML%20Engineer&descSize=18&descAlign=50&descAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=220&section=header&text=Joseph%20Tosin%20Olamide&fontSize=35&fontColor=38bdf8&textY=35&desc=AI%2FML%20Engineer&descSize=18&descColor=94a3b8&descY=72" alt="Header" />
 </p>
 
 ---
@@ -12,6 +12,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=I'm+Joseph+Tosin+Olamide;AI%2FML+Engineer;Building+machine+learning+models...;Data+analysis+pipelines+%26+intelligent+software!" alt="Typing SVG" />
   </a>
 </p>
+
+---
 
 ## 🛠 Tech Stack & Tools
 
