@@ -30,18 +30,18 @@
 
 ---
 
+
+
+## 📊 GitHub Contribution Graph Animation
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/vaimltosin-AIML/vaimltosin-AIML/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
-## 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=vaimltosin-AIML&show_icons=true&theme=radial" alt="Tosin's GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vaimltosin-AIML&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
 
 ---
+
+
 
 ## 📫 Connect with Me
 
