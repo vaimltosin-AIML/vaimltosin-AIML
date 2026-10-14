@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=111827&height=200&section=header&text=Joseph%20Tosin%20Olamide&fontSize=35&fontColor=f59e0b&desc=AI%2FML%20Engineer&descSize=18&descColor=ef4444" alt="Header" />
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?
