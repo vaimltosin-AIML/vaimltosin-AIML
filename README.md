@@ -1,10 +1,6 @@
 
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=I'm+Joseph+Tosin+Olamide;AI%2FML+Engineer;Building+machine+learning+models...;Data+analysis+pipelines+%26+intelligent+software!" alt="Typing SVG" />
-  </a>
-</p>
+
 
 
 <p align="center">
@@ -12,6 +8,12 @@
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=I'm+Joseph+Tosin+Olamide;AI%2FML+Engineer;Building+machine+learning+models...;Data+analysis+pipelines+%26+intelligent+software!" alt="Typing SVG" />
+  </a>
+</p>
 
 ## 🛠 Tech Stack & Tools
 
