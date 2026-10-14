@@ -1,3 +1,17 @@
+
+<!-- Option B: Centered Banner Overlay via HTML Table -->
+<table border="0" width="100%">
+  <tr>
+    <td align="center" background="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header">
+      <br />
+      <h1>I'm Joseph Tosin Olamide</h1>
+      <h3>AI/ML Engineer</h3>
+      <p>Building machine learning models, data analysis pipelines, and intelligent software solutions.</p>
+      <br />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=I'm+Joseph+Tosin+Olamide;AI%2FML+Engineer;Building+machine+learning+models...;Data+analysis+pipelines+%26+intelligent+software!" alt="Typing SVG" />
