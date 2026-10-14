@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1e293b&height=200&section=header&text=Welcome%20my%20Github&fontSize=35&fontColor=38bdf8" alt="Header" />
 </p>
+---
 
 <p align="center">
   <a href="https://git.io/typing-svg">
