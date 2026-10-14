@@ -1,10 +1,5 @@
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-    type=waving&color=802857&height=200&text=Joseph%20Tosin%20Olamide&fontSize=38&fontColor=ffffff&desc=AI%2FML%20Engineer&descSize=18&descAlign=50&descAlignY=65" width="100%" />
-</p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:E83E8C,100:6F42C1&height=200&section=header&text=Joseph%20Tosin%20Olamide&fontSize=36&fontColor=ffffff&desc=AI%2FML%20Engineer&descSize=18&descAlign=50&descAlignY=65" width="100%" />
